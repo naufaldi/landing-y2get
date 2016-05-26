@@ -123,9 +123,10 @@ nav {
     }
 
     .gorilla {
-      display: inline-block;
-      height: 330px;
-      background-image: url('http://i.imgur.com/wsajM1kg.jpg');
+//      display: inline-block;
+      height: 100px;
+      background-image: url('http://i.imgur.com/kmi6NmR.jpg');
+
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center center;
@@ -319,16 +320,20 @@ nav {
     #Footer
 \*------------------------------------*/
 
+footer{
+     background-color: #DD5A2B;
+
+}
 
 .page-footer {
 
-  background-color: $grey;
-  height: 100vh;
+  background-color: #DD5A2B;
+
   padding: 2rem 0;
 
 
   p {
-    color: $grey;
+    color: $black;
     font-size: 1.2rem;
   }
 
@@ -337,7 +342,7 @@ nav {
     color: $primary;
 
     span {
-      color: $grey;
+      color: $black;
     }
 
   }
@@ -348,10 +353,10 @@ nav {
 
 @media (max-width: $medium-screen-up) {
 
-  .page-footer {
-
-      h5 { margin-top: 2.5rem; }
- }
+//  .page-footer {
+//
+//      h5 { margin-top: 2.5rem; }
+// }
 
 
 }
@@ -436,3 +441,7 @@ nav {
 .bold { font-weight: 400; }
 
 
+
+.logo {
+      padding-top: 100px;
+}
