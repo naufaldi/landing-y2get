@@ -5,3 +5,15 @@ https://github.com/hew/materialize-landing-page
 #Edited By me
 For Y2Get! Official Website
 Build with Materialize Framework
+
+#LINK WEBSITE
+
+http://y2get.azurewebsites.net
+
+
+#DEVELOPER
+
+- Naufaldi Rafif Satriya
+- Bill Tanthowi Jauhari
+- Riyant Budi S
+- Fairuz Zumar Rounaqi
