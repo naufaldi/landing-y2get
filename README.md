@@ -8,7 +8,7 @@ Build with Materialize Framework
 
 #LINK WEBSITE
 
-http://y2get.azurewebsites.net
+http://y2get.surge.sh/
 
 
 #DEVELOPER
